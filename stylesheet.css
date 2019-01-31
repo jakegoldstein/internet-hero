@@ -1,0 +1,31 @@
+html {
+    height: 100%;
+}
+body {
+    
+    background-repeat: no-repeat;
+    
+    
+}
+ul {
+    list-style: none;
+
+}
+a {
+	color:#666;
+	text-decoration: none;
+
+}
+li {
+	margin-bottom: 1.36364em;
+	font-size: 1em;
+}
+#mainNav{
+  height: 75%;
+  padding:0;
+  transform: translate(-1%, 200%);
+  margin:0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
